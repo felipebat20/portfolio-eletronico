@@ -9,6 +9,14 @@ img#perfil-foto {
     width: 150px;
 }
 
+.company-img {
+    width: 30%;
+}
+
+.tirar-barra {
+    width: 100%;
+}
+
 
 /*!
  * animate.css -https://daneden.github.io/animate.css/
