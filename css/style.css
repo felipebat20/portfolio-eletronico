@@ -1,5 +1,15 @@
 @charset "UTF-8";
 
+/*
+Main CSS Perso
+*/
+
+img#perfil-foto {
+    height: 150px;
+    width: 150px;
+}
+
+
 /*!
  * animate.css -https://daneden.github.io/animate.css/
  * Version - 3.7.2
