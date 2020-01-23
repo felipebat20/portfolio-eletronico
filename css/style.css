@@ -4,6 +4,10 @@
 Main CSS Perso
 */
 
+header {
+    width: 100% !important;
+}
+
 img#perfil-foto {
     height: 150px;
     width: 150px;
@@ -14,7 +18,13 @@ img#perfil-foto {
 }
 
 .tirar-barra {
-    width: 100%;
+    width: 33%;
+    height: 300px;
+}
+
+a h3 {
+    text-decoration: none !important;
+    color: black;
 }
 
 
