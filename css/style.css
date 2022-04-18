@@ -13,10 +13,6 @@ img#perfil-foto {
     width: 150px;
 }
 
-.company-img {
-    width: 30%;
-}
-
 .tirar-barra {
     width: 33%;
     height: 300px;
@@ -25,6 +21,10 @@ img#perfil-foto {
 a h3 {
     text-decoration: none !important;
     color: black;
+}
+
+.options {
+    background-color: #2a9ee2;
 }
 
 
